@@ -11,7 +11,7 @@ a {
 }
 
 li {
-  list-style: none;
+  list-style: decimal-leading-zero;
   font-size: 20px;
 }
 
